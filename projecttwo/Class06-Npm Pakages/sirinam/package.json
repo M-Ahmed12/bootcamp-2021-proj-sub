@@ -1,0 +1,18 @@
+{
+  "name": "sir-inam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.13"
+  },
+  "dependencies": {
+    "@m.qasim077/qasim": "^1.0.1"
+  }
+}
